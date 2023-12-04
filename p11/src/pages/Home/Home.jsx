@@ -2,9 +2,9 @@ import React from "react";
 import "./Home.css";
 import HeroBanner from "../../components/HeroBanner/HeroBanner";
 import FeatureItem from "../../components/FeatureItem/FeatureItem";
-import logofeatureChat from "../../assets/img/icon-chat.png";
-import logofeatureMoney from "../../assets/img/icon-money.png";
-import logofeatureSecurity from "../../assets/img/icon-security.png";
+import logofeatureChat from "../../assets/img/icon-chat.webp";
+import logofeatureMoney from "../../assets/img/icon-money.webp";
+import logofeatureSecurity from "../../assets/img/icon-security.webp";
 
 export default function Home() {
   return (

@@ -2,7 +2,7 @@ import React from "react";
 import "./Header.css";
 import { Link } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
-import logoHeader from "../../assets/img/argentBankLogo.png";
+import logoHeader from "../../assets/img/argentBankLogo.webp";
 import { setLogout } from "../../Redux/Reducers/SignInReducer";
 
 export default function Header() {
